@@ -22,8 +22,8 @@ Tested on Kaggle notebook with 1 Tesla P100-16GB GPU and a RAM size of 30 GB usi
 
 ## Experiment
 1. First, download [SentiSUM] dataset
-2. Run summarization task on SentiSUM dataset using jupyter notebook [IndoBERT Summarization] and it will generate dataset [Auto-SentiSUM]
-3. Run IndoBERT Fine-Tuning and evaluation Auto-Summarization sentiment on [Auto-SentiSUM] using jupyter notebook [IndoBERT Sentiment Analysis on Summarization]
+2. Run summarization task on SentiSUM dataset using [IndoBERT Summarization] jupyter notebook and it will generate [Auto-SentiSUM] dataset
+3. Run IndoBERT Fine-Tuning and evaluation Auto-Summarization sentiment on [Auto-SentiSUM] dataset using [IndoBERT Sentiment Analysis on Summarization] jupyter notebook.
 
 
    [SentiSUM]: <https://github.com/azisfata/senti-sum/blob/main/SentiSUM.xlsx>
